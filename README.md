@@ -13,15 +13,15 @@ and reproducible experiments** rather than theory-heavy exposition.
 ## 📂 Repository Structure
 
 quantum-portfolio/
-│── basics/
-│ ├── hadamard.ipynb # Hadamard gate & quantum superposition
+├── basics/
+│ └── hadamard.ipynb # Hadamard gate & quantum superposition
 │
-│── simulators/ # Experiments with simulators & noise (upcoming)
+├── simulators/ # Experiments with simulators & noise (upcoming)
 │
-│── algorithms/ # Quantum algorithms (upcoming)
+├── algorithms/ # Quantum algorithms (upcoming)
 │
-│── README.md
-│── .gitignore
+├── README.md
+└── .gitignore
 
 
 --------------------------------------
