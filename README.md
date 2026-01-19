@@ -14,14 +14,22 @@ and reproducible experiments** rather than theory-heavy exposition.
 
 quantum-portfolio/
 ├── basics/
-│ └── hadamard.ipynb # Hadamard gate & quantum superposition
+│ ├── hadamard.ipynb
+│ │ └── Hadamard gate & quantum superposition
+│ │
+│ ├── pauli_x_gate.ipynb
+│ └── Pauli-X gate (quantum NOT)
 │
-├── simulators/ # Experiments with simulators & noise (upcoming)
+├── simulators/
+│ └── (upcoming)
 │
-├── algorithms/ # Quantum algorithms (upcoming)
+├── algorithms/
+│ └── (upcoming)
 │
 ├── README.md
 └── .gitignore
+
+
 
 
 --------------------------------------
