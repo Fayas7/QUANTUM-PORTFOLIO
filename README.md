@@ -12,6 +12,7 @@ and reproducible experiments** rather than theory-heavy exposition.
 
 ## 📂 Repository Structure
 
+```text
 quantum-portfolio/
 ├── basics/
 │   ├── hadamard.ipynb
@@ -26,8 +27,7 @@ quantum-portfolio/
 │
 ├── README.md
 └── .gitignore
-
-
+```
 
 
 
