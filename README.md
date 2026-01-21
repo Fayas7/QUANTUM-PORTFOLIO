@@ -15,10 +15,8 @@ and reproducible experiments** rather than theory-heavy exposition.
 quantum-portfolio/
 ├── basics/
 │   ├── hadamard.ipynb
-│   │   └── Hadamard gate & quantum superposition
-│   │
 │   ├── pauli_x_gate.ipynb
-│       └── Pauli-X gate (quantum NOT)
+│   └── pauli_z_gate.ipynb
 │
 ├── simulators/
 │   └── (upcoming)
@@ -32,17 +30,27 @@ quantum-portfolio/
 
 
 
+
 --------------------------------------
 
 ## 🧪 Current Contents
 
-### `basics/`
-- **Hadamard Gate and Quantum Superposition**
-  - Demonstrates how a Hadamard gate creates an equal superposition
-  - Measurement statistics visualized using histograms
+basics/
+
+Hadamard Gate and Quantum Superposition
+Demonstrates how a Hadamard gate creates an equal superposition of
+|0⟩ and |1⟩. Measurement statistics are visualized using histograms.
+
+Pauli-X Gate (Quantum NOT)
+Shows how the Pauli-X gate deterministically flips a qubit from
+|0⟩ → |1⟩, behaving as the quantum equivalent of a classical NOT gate.
+
+Pauli-Z Gate (Phase Flip)
+Demonstrates how the Pauli-Z gate flips the phase of a qubit without
+changing its measurement outcome, highlighting the role of phase in
+quantum systems.
 
 More notebooks will be added incrementally as the portfolio grows.
-
 --------------------------------------
 ## 🛠 Tools & Technologies
 
