@@ -14,18 +14,18 @@ and reproducible experiments** rather than theory-heavy exposition.
 
 ```text
 quantum-portfolio/
-├── basics/
+├── Basics/
 │   ├── hadamard.ipynb
 │   ├── pauli_x_gate.ipynb
 │   ├── pauli_z_gate.ipynb
 │   ├── two_qubit_basics.ipynb
 │   └── bell_state.ipynb
 │
-├── simulators/
+├── Simulators/
 │   └── (upcoming)
 │
-├── algorithms/
-│   └── (upcoming)
+├── Algorithms/
+│   └── Grover's Algorithm
 │
 ├── README.md
 └── .gitignore
