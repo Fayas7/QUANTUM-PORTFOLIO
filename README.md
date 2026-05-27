@@ -22,7 +22,7 @@ quantum-portfolio/
 │   └── bell_state.ipynb
 │
 ├── Simulators/
-│   └── (upcoming)
+│   └── statevector_simulator.ipynb
 │
 ├── Algorithms/
 │   └── Grover's Algorithm
