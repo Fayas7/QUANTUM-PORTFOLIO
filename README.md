@@ -23,6 +23,7 @@ quantum-portfolio/
 │
 ├── Simulators/
 │   └── statevector_simulator.ipynb
+    ├── qasm_simulator.ipynb
 │
 ├── Algorithms/
 │   └── Grover's Algorithm
