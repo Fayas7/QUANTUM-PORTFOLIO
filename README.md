@@ -1,4 +1,4 @@
-# Quantum Computing Portfolio
+# Quantum Computing Fundementals
 
 This repository contains hands-on quantum computing experiments and projects
 implemented using **Qiskit**.  
